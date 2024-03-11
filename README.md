@@ -1,0 +1,6 @@
+- 👋 Hello, I’m @leirzadwy.
+- 👀 I’m interested in Luau "Scripting".
+- 🌱 I’m currently learning Luau.
+- 📫 Reach me through DMing _z1or on discord.
+- 😄 Pronouns: Male
+- ⚡ Fun fact: I love trains.
