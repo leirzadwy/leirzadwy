@@ -1,0 +1,3 @@
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local pl2 = "player" -- player name of what person you want to tp to
+pl.CFrame = game.Players.[pl2].Character.HumanoidRootPart.CFrame
